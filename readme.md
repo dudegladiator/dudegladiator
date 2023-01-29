@@ -23,14 +23,18 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <a href="https://github.com/dudegladiator"><img src="contributions.svg"></a>
-
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=dudegladiator" />
+
+## Overview
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudegladiator&show_icons=true&locale=en&layout=compact" alt="dudegladiator" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudegladiator&show_icons=true&locale=en" alt="dudegladiator" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dudegladiator&" alt="dudegladiator" /></p>
+
+## 🎵 Spotify status
+
 
 <a href="https://open.spotify.com/user/31mwou5nfdxs2zqcmjpiywz5gjmu?si=cee927970d2d47f4">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwou5nfdxs2zqcmjpiywz5gjmu&cover_image=true&theme=default&show_offline=true&background_color=a03131&bar_color=23b31e&bar_color_cover=true" width="300" height="500" alt="Now Playing">
