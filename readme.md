@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudegladiator&show_icons=true&locale=en" alt="dudegladiator" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dudegladiator&" alt="dudegladiator" /></p>
+
+<a href="https://open.spotify.com/user/31mwou5nfdxs2zqcmjpiywz5gjmu?si=cee927970d2d47f4">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwou5nfdxs2zqcmjpiywz5gjmu&cover_image=true&theme=default&show_offline=true&background_color=a03131&bar_color=23b31e&bar_color_cover=true" width="300" height="500" alt="Now Playing">
+</a>
