@@ -21,18 +21,6 @@
 </a>
 </div>
 
-
-
-## <p align="center">🎵 Spotify status</p>
-
-
-<a href="https://open.spotify.com/user/31mwou5nfdxs2zqcmjpiywz5gjmu?si=cee927970d2d47f4">
-  <p align="center">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mwou5nfdxs2zqcmjpiywz5gjmu&cover_image=true&theme=default&show_offline=true&background_color=a03131&bar_color=23b31e&bar_color_cover=true" width="250" height="300" alt="Now Playing">
-</a></p>
-
-
-
 ## <p align="center"> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 <p align="center">
 
