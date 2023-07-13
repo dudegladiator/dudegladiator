@@ -6,19 +6,18 @@
 ## 💻 Tech Stack
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <img src="images/c-plusplus.svg" alt="C++" width="40" height="40"/>
 <img src="images/python.svg" alt="python" width="40" height="40"/>
+
 <img src="images/c.svg" alt="C" width="40" height="40"/>
 <img src="images/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="images/mysql-icon.svg" alt="SQL" width="40" height="40"/>
 
-
-
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ 
 <p align="left">
 <img src="images/numpy.svg" alt="Numpy" width="40" height="40"/>
 <img src="images/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
@@ -33,6 +32,7 @@
 </p>
 
 <h3 align="left">Design/Visual Tools:</h3>
+
 <p align="left">
 <img src="images/figma.svg" alt="Figma" width="40" height="40"/>
 <img src="images/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
@@ -56,17 +56,22 @@
 </p>
 
 
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/dudegladiator/Liveweather.github.io" title="Live Weather"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Liveweather.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dudegladiator/YoutubeDownloader" title="Youtube Downloader"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=YoutubeDownloader&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/dudegladiator?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
-<div align="center">
 
-<a href="https://github.com/dudegladiator/">
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dudegladiator&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dudegladiator&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="dudegladiator"/>
 
-</a>
-</div>
 
 ## <p align="center"> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 <p align="center">
