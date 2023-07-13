@@ -24,15 +24,15 @@
 <img src="images/seaborn-icon.svg" alt="Seaborn" width="40" height="40"/>
 <img src="images/jupyter.svg" alt="Jupyter" width="40" height="40"/>
 <img src="images/matplotlib-icon.svg" alt="MatplotLib" width="40" height="40"/>
-
+<img src="images/react.svg" alt="React" width="40" height="40"/>
+<img src="images/nodejs-icon.svg" alt="Node JS" width="40" height="40"/>
 </p>
 
 <h3 align="left">Design/Visual Tools:</h3>
 <p align="left">
-<img src="images/figma.svg" alt="" width="40" height="40"/>
-<img src="images/adobe-xd.svg" alt="" width="40" height="40"/>
-<img src="images/microsoft-power-bi.svg" alt="" width="40" height="40"/>
-<img src="images/" alt="" width="40" height="40"/>
+<img src="images/figma.svg" alt="Figma" width="40" height="40"/>
+<img src="images/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+<img src="images/microsoft-power-bi.svg" alt="Power Bi" width="40" height="40"/>
 
 </p>
 
