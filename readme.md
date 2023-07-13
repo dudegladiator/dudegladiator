@@ -73,7 +73,7 @@
 
 
 
-## <p align="center"> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
+## <p align="left"> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
