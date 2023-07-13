@@ -70,8 +70,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <div align="center"> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudegladiator&layout=compact&theme=react" alt="Github" width="450" height="200"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dudegladiator&show_icons=true&theme=react" alt="Github" width="500" height="200"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudegladiator&layout=compact&theme=react" alt="Github" width="300" height="200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dudegladiator&show_icons=true&theme=react" alt="Github" width="400" height="200"/>
 </div>
 
 
