@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
+ <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p align="left">
 <img src="images/numpy.svg" alt="Numpy" width="40" height="40"/>
 <img src="images/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
@@ -25,7 +26,10 @@
 <img src="images/jupyter.svg" alt="Jupyter" width="40" height="40"/>
 <img src="images/matplotlib-icon.svg" alt="MatplotLib" width="40" height="40"/>
 <img src="images/react.svg" alt="React" width="40" height="40"/>
-<img src="images/nodejs-icon.svg" alt="Node JS" width="40" height="40"/>
+</p>
+<h3 align="left">Database:</h3>
+<p align="left">
+<img src="images/mongodb-icon.svg" alt="Mongo DB" width="40" height="40"/>
 </p>
 
 <h3 align="left">Design/Visual Tools:</h3>
@@ -35,6 +39,23 @@
 <img src="images/microsoft-power-bi.svg" alt="Power Bi" width="40" height="40"/>
 
 </p>
+
+<h3 align="left">Backend:</h3>
+<p align="left">
+<img src="images/nodejs-icon.svg" alt="Node JS" width="40" height="40"/>
+<img src="images/fastapi-1.svg" alt="Fast API" width="40" height="40"/>
+</p>
+
+
+
+<h3 align="left">Others:</h3>
+<p align="left">
+<img src="images/html-5.svg" alt="HTML" width="40" height="40"/>
+<img src="images/css-3.svg" alt="CSS" width="40" height="40"/>
+<img src="images/github-icon.svg" alt="Github" width="40" height="40"/>
+</p>
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <div align="center">
