@@ -3,13 +3,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&duration=6000&pause=500&color=7FF721&background=88C0FF00&center=true&vCenter=true&width=800&height=100&lines=Passionate+about+ML%2C+Finance%2C+and+Data+Science;Sophomore+at+IIT+Kharagpur;I+Love+building+real+life+projects." alt="Typing SVG" /></a>
 
 
-<h3 align="left">🧑‍💻 Skills:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
 
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="images/c-plusplus.svg" alt="C++" width="40" height="40"/>
+<img src="images/python.svg" alt="python" width="40" height="40"/>
+<img src="images/c.svg" alt="C" width="40" height="40"/>
+<img src="images/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="images/mysql-icon.svg" alt="SQL" width="40" height="40"/>
 
-<a href="https://github.com/dudegladiator"><img src="contributions.svg"></a>
 
+
+</p>
+
+<h3 align="left">Libraries and Frameworks:</h3>
+<p align="left">
+<img src="images/" alt="" width="40" height="40"/>
+<img src="images/" alt="" width="40" height="40"/>
+<img src="images/" alt="" width="40" height="40"/>
+<img src="images/" alt="" width="40" height="40"/>
+<img src="images/" alt="" width="40" height="40"/>
+
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <div align="center">
