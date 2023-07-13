@@ -67,7 +67,6 @@
 <h4 align="center">
   <a href="https://github.com/dudegladiator?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <div align="center"> 
@@ -75,8 +74,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dudegladiator&show_icons=true&theme=react" alt="Github" width="500" height="200"/>
 </div>
 
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## <p align="left"> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 <p align="center">
