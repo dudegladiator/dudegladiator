@@ -7,9 +7,10 @@
 -  Learning Machine Leaning through small projects (Using different Algorithm).
 
 ## 💻 Tech Stack
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <img src="images/c-plusplus.svg" alt="C++" width="40" height="40"/>
 <img src="images/python.svg" alt="python" width="40" height="40"/>
 
@@ -33,8 +34,9 @@
 <p align="left">
 <img src="images/mongodb-icon.svg" alt="Mongo DB" width="40" height="40"/>
 </p>
-
+<img align="right" width="500" height="300" src="images/giphy.gif" />
 <h3 align="left">Design/Visual Tools:</h3>
+
 
 <p align="left">
 <img src="images/figma.svg" alt="Figma" width="40" height="40"/>
