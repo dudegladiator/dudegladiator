@@ -63,6 +63,11 @@
 <h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/dudegladiator/SmartGPA" title="Live Weather"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=SmartGPA&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dudegladiator/QuantClub" title="Youtube Downloader"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=QuantClub&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
   <a align="left" href="https://github.com/dudegladiator/Liveweather.github.io" title="Live Weather"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Liveweather.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/dudegladiator/YoutubeDownloader" title="Youtube Downloader"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=YoutubeDownloader&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
