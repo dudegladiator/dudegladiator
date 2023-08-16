@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&duration=6000&pause=500&color=7FF721&background=88C0FF00&center=true&vCenter=true&width=800&height=100&lines=Passionate+about+ML%2C+Finance%2C+and+Data+Science;Sophomore+at+IIT+Kharagpur;I+Love+building+real+life+projects." alt="Typing SVG" /></a>
 
 ## 🔧 Currently Working On
--  Making Code Editor  with AI features in browser for Competitive Programming (Using React).
--  Learning Machine Leaning through small projects (Using different Algorithm).
+-  SmartStockSelect: Empowering Informed Investment through Indicator-Driven Stock Selection
 
 ## 💻 Tech Stack
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
