@@ -27,7 +27,6 @@
 <img src="images/seaborn-icon.svg" alt="Seaborn" width="40" height="40"/>
 <img src="images/jupyter.svg" alt="Jupyter" width="40" height="40"/>
 <img src="images/matplotlib-icon.svg" alt="MatplotLib" width="40" height="40"/>
-<img src="images/react.svg" alt="React" width="40" height="40"/>
 </p>
 <h3 align="left">Database:</h3>
 <p align="left">
