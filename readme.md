@@ -3,57 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&duration=6000&pause=500&color=7FF721&background=88C0FF00&center=true&vCenter=true&width=800&height=100&lines=Passionate+about+SDE%2C+and+ML;Undergraduate+at+IIT+Kharagpur;I+Love+building+real+life+projects." alt="Typing SVG" /></a>
 
 
-
-## 💻 Tech Stack
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-
-<img src="images/c-plusplus.svg" alt="C++" width="40" height="40"/>
-<img src="images/python.svg" alt="python" width="40" height="40"/>
-<img src="images/c.svg" alt="C" width="40" height="40"/>
-<img src="images/javascript.svg" alt="javascript" width="40" height="40"/>
-
-</p>
-
-<h3 align="left">Libraries and Frameworks:</h3>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<p align="left">
-<img src="images/numpy.svg" alt="Numpy" width="40" height="40"/>
-<img src="images/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
-<img src="images/seaborn-icon.svg" alt="Seaborn" width="40" height="40"/>
-<img src="images/jupyter.svg" alt="Jupyter" width="40" height="40"/>
-<img src="images/matplotlib-icon.svg" alt="MatplotLib" width="40" height="40"/>
-</p>
-<h3 align="left">Database:</h3>
-<p align="left">
-<img src="images/mongodb-icon.svg" alt="Mongo DB" width="40" height="40"/>
-<img src="images/mysql-icon.svg" alt="SQL" width="40" height="40"/>
-</p>
-<!-- <img align="right" width="500" height="300" src="images/giphy.gif" /> -->
-<h3 align="left">Design/Visual Tools:</h3>
-
-
-<p align="left">
-<img src="images/figma.svg" alt="Figma" width="40" height="40"/>
-<img src="images/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-<img src="images/microsoft-power-bi.svg" alt="Power Bi" width="40" height="40"/>
-
-</p>
-
-<h3 align="left">Backend:</h3>
-<p align="left">
-<img src="images/nodejs-icon.svg" alt="Node JS" width="40" height="40"/>
-<img src="images/fastapi-1.svg" alt="Fast API" width="40" height="40"/>
-</p>
-
-
-
-<!-- <h3 align="left">Others:</h3> -->
-<!-- <p align="left"> -->
-<!-- <img src="images/html-5.svg" alt="HTML" width="40" height="40"/> -->
-<!-- <img src="images/css-3.svg" alt="CSS" width="40" height="40"/> -->
-<!-- <img src="images/github-icon.svg" alt="Github" width="40" height="40"/> -->
-<!-- </p> -->
+<div align="center">
+⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/viewer?url=https://github.com/dudegladiator/dudegladiator/raw/main/Harsh_Gupta_Resume.pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
+</div>
 
 
 
