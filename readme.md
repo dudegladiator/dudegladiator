@@ -37,16 +37,8 @@
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## <p align="left"> Let's Connect..!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/harsh90731">
-          <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/harsh_90731/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCdapMx-E35qLTGRF8HfyWbA">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-	
-      
-
-</p>
+Linkedin - https://www.linkedin.com/in/harsh90731/
+<br/>
+Mail - harsh90731@gmail.com
+<br/>
+Portfolio - https://harshiitkgp.in
