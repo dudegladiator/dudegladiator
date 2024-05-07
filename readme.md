@@ -1,26 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px"> , I'm Harsh Gupta</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&duration=6000&pause=500&color=7FF721&background=88C0FF00&center=true&vCenter=true&width=800&height=100&lines=Passionate+about+ML%2C+and+SDE;Sophomore+at+IIT+Kharagpur;I+Love+building+real+life+projects." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&duration=6000&pause=500&color=7FF721&background=88C0FF00&center=true&vCenter=true&width=800&height=100&lines=Passionate+about+SDE%2C+and+ML;Undergraduate+at+IIT+Kharagpur;I+Love+building+real+life+projects." alt="Typing SVG" /></a>
 
-## 🔧 Currently Working On
--  SmartStockSelect: Empowering Informed Investment through Indicator-Driven Stock Selection
+
 
 ## 💻 Tech Stack
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 
 <img src="images/c-plusplus.svg" alt="C++" width="40" height="40"/>
 <img src="images/python.svg" alt="python" width="40" height="40"/>
-
 <img src="images/c.svg" alt="C" width="40" height="40"/>
 <img src="images/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="images/mysql-icon.svg" alt="SQL" width="40" height="40"/>
 
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
- 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p align="left">
 <img src="images/numpy.svg" alt="Numpy" width="40" height="40"/>
 <img src="images/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
@@ -31,8 +27,9 @@
 <h3 align="left">Database:</h3>
 <p align="left">
 <img src="images/mongodb-icon.svg" alt="Mongo DB" width="40" height="40"/>
+<img src="images/mysql-icon.svg" alt="SQL" width="40" height="40"/>
 </p>
-<img align="right" width="500" height="300" src="images/giphy.gif" />
+<!-- <img align="right" width="500" height="300" src="images/giphy.gif" /> -->
 <h3 align="left">Design/Visual Tools:</h3>
 
 
@@ -51,25 +48,25 @@
 
 
 
-<h3 align="left">Others:</h3>
-<p align="left">
-<img src="images/html-5.svg" alt="HTML" width="40" height="40"/>
-<img src="images/css-3.svg" alt="CSS" width="40" height="40"/>
-<img src="images/github-icon.svg" alt="Github" width="40" height="40"/>
-</p>
+<!-- <h3 align="left">Others:</h3> -->
+<!-- <p align="left"> -->
+<!-- <img src="images/html-5.svg" alt="HTML" width="40" height="40"/> -->
+<!-- <img src="images/css-3.svg" alt="CSS" width="40" height="40"/> -->
+<!-- <img src="images/github-icon.svg" alt="Github" width="40" height="40"/> -->
+<!-- </p> -->
 
 
 
 <h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dudegladiator/SmartGPA" title="SmatGPA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=SmartGPA&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/dudegladiator/ResumeParser" title="Resume Parser"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=ResumeParser&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dudegladiator/Self-Evaluation-of-Academic-Performance" title="Self-Evaluation-of-Academic-Performance"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Self-Evaluation-of-Academic-Performance&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dudegladiator/Azad-Hall-Website" title="Azad Hall Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Azad-Hall-Website&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dudegladiator/Liveweather.github.io" title="Live Weather"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Liveweather.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/dudegladiator/QuantClub" title="Quant Club"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=QuantClub&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dudegladiator/Logistic-Optimization-for-Industrial-Expansion" title="Logistic-Optimization-for-Industrial-Expansion"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Logistic-Optimization-for-Industrial-Expansion&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dudegladiator/Algorithmic_Trading" title="Algorithmic_Trading"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dudegladiator&repo=Algorithmic_Trading&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
@@ -91,7 +88,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/harsh-gupta-839714252/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/harsh90731">
           <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/harsh_90731/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
