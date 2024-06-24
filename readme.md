@@ -6,7 +6,10 @@
 <div align="center">
 ⭕️ <b>For Professional details</b> - <a href="http://resume.harshiitkgp.in/" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
 </div>
-
+<br>
+<div align="center">
+<b>Building Vanguard AI (Inventory Manager)</b>
+</div>
 
 
 <h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2>
