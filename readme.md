@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-<b>Building Vanguard AI (Inventory Manager)</b>
+<b>Building Vanguard AI (AI Inventory Manager)</b>
 </div>
 
 
