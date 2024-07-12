@@ -4,7 +4,7 @@
 
 
 <div align="center">
-⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/viewer?url=https://github.com/dudegladiator/dudegladiator/blob/main/Harsh_Gupta_Resume.pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
+⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/viewer?url=https://github.com/dudegladiator/dudegladiator/raw/main/Harsh_Gupta_Resume.pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
 </div>
 <br>
 <div align="center">
