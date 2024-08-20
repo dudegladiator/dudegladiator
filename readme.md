@@ -3,9 +3,7 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=45&duration=6000&pause=500&color=7FF721&background=88C0FF00&center=true&vCenter=true&width=800&height=100&lines=Undergraduate+at+IIT+Kharagpur;Passionate+about+SDE%2C+and+ML;I+Love+building+real+life+projects" alt="Typing SVG" /></a> -->
 
 
-<div align="center">
-⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/viewer?url=https://github.com/dudegladiator/dudegladiator/raw/main/Harsh_Gupta_Resume.pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
-</div>
+
 <br>
 <div align="center">
 <b>Building Vanguard AI (AI Inventory Manager)</b>
