@@ -4,9 +4,10 @@
 
 
 
-<br>
-<div align="center" href="https://vanguardai.in/kraya">
-<b>Building Vanguard AI (AI Inventory Manager)</b>
+<div align="center">
+  <a href="https://vanguardai.in/kraya" target="_blank">
+    <b>Building Vanguard AI (AI Inventory Manager)</b>
+  </a>
 </div>
 
 
