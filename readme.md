@@ -5,7 +5,7 @@
 
 
 <br>
-<div align="center">
+<div align="center" href="https://vanguardai.in/kraya">
 <b>Building Vanguard AI (AI Inventory Manager)</b>
 </div>
 
