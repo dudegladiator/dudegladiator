@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://vanguardai.in/kraya" target="_blank">
-    <b>Building Vanguard AI (AI-PoweredInventory Management)</b>
+    <b>Building Vanguard AI (AI-Powered Inventory Management)</b>
   </a>
 </div>
 
